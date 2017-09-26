@@ -2,7 +2,7 @@
 
 @font-face
 {
-	font-family: Arial;
+	font-family: Courier;
 	src: url('fonts/fontawesome-webfont.eot?v=3.0.1');
 	src: url('fonts/fontawesome-webfont.eot?#iefix&v=3.0.1') format('embedded-opentype'),
 	     url('fonts/fontawesome-webfont.woff?v=3.0.1') format('woff'),
@@ -42,9 +42,9 @@
 
 		.icon:before
 		{
-			font-size: 1.25em;
+			font-size: 1.05em;
 			text-decoration: none;
-			font-family: Arial;
+			font-family: Courier;
 			font-weight: normal;
 			font-style: normal;
 			-webkit-text-rendering: optimizeLegibility;
